@@ -22,7 +22,7 @@ Tracking gives you a chance to peek at the player while holding a configured key
 - Speed limiter
 
 ## Prerequisites
-Latest .NET Framework (https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net481-web-installer)
+Latest .NET Framework (https://go.microsoft.com/fwlink/?LinkId=2203304)
 
 ## Installation Guide
 1. Download the latest version from Releases section.
