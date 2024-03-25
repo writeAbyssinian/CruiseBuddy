@@ -1,9 +1,9 @@
-# [TC] Helper
+# CruiseBuddy
 
-[TC] Helper was created out of passion for [TC] community and as a project for learning new programming language. Idea of this tool is to give some extra capabilities on top of existing InSim of [TC] servers.
+CruiseBuddy was created out of passion for [TC] community and as a project for learning new programming language. Idea of this tool is to give some extra capabilities on top of existing InSim of [TC] servers.
 You're welcome to suggest new ideas which would extend this tool and make it more essential for everyone.
 
-[TC] Helper will work only while playing on [TC] CityDriving (https://city-driving.co.uk) servers.
+CruiseBuddy will work only while playing on [TC] CityDriving (https://city-driving.co.uk) servers.
 
 ## Current Functionalities
 ### Notifications
@@ -29,8 +29,8 @@ Latest .NET Framework (https://go.microsoft.com/fwlink/?LinkId=2203304)
 ## Installation Guide
 1. Download the latest version from Releases section.
 2. Unextract downloaded file to any directory.
-3. Launch Live For Speed and make sure that you've set InSim port (press T and type /insim=29999)
-4. Start [TC] Helper.
+3. Launch Live For Speed and make sure that you've set InSim port (press T and type /insim=29999).
+4. Start CruiseBuddy.exe.
 
 ## Issues and Suggestions
 Please report issues to [TC] forum thread (https://forum.city-driving.co.uk/showthread.php?tid=37722).
