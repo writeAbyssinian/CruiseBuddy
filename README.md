@@ -33,5 +33,5 @@ Latest .NET Framework (https://go.microsoft.com/fwlink/?LinkId=2203304)
 4. Start [TC] Helper.
 
 ## Issues and Suggestions
-Please report issues to [TC] forum thread: placeholder
+Please report issues to [TC] forum thread (https://forum.city-driving.co.uk/showthread.php?tid=37722).
 Additionally, you can make suggestions on the same thread. This project is developed on free-time and is not guaranteed to be finished or improved a lot in the future.
