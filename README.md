@@ -19,9 +19,11 @@ Tracking gives you a chance to peek at the player while holding a configured key
 > Peeking is not available while in a chase as it would give unfair advantage.
 
 ## Planned Functionalities
-- Automatic replies
-- Automatic indicators
-- Speed limiter
+- Automatic Replies
+- Automatic Indicators
+- Speed Limiter
+- Dynamic Keybinds based on Role
+- More...
 
 ## Prerequisites
 Latest .NET Framework (https://go.microsoft.com/fwlink/?LinkId=2203304)
