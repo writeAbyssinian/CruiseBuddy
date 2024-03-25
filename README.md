@@ -11,7 +11,9 @@ Audible configured notifications for various events like SOS calls, AFK warning 
 Set specific audible notification for when getting a tow call, police call or when someone is reporting a danger or requesting a support.
 Includes AFK warning notification so you can get back into the game before you get kicked and Chat Mention notification so you won't miss a message when someone uses your name in the chat.
 
-### Tracker and Quick-Spectate (Peeking)
+![image](https://github.com/writeAbyssinian/TCHelper/assets/61785685/41bce6cb-35ff-4b8c-8ad4-cb446d380323)
+
+### Event-Based Tracker and Quick-Spectate (Peeking)
 Automated tracker which sets a tracked player when responding to a call. You can also manually select a player to track.
 Tracking gives you a chance to peek at the player while holding a configured keybind which can be changed any time.
 > Peeking is not available while in a chase as it would give unfair advantage.
